@@ -1,0 +1,9 @@
+{
+    "img": {
+      "src": "images/resume-image.jpg",
+      "alt": "Profile Image"
+    },
+    "h2": "Summary",
+    "p": "Software Developer with over 2 years of experience in developing and optimizing web applications using ReactJS and other modern technologies. Successfully developed a work portal screen that boosted user engagement and integrated RESTful APIs to improve data retrieval time. Skilled in utilizing TypeScript, CSS, Bootstrap, and Redux for frontend development, while also experienced in problem analysis and ensuring code quality through robust testing. Aims to leverage expertise to develop scalable, high-performance web applications at the next opportunity."
+  }
+  

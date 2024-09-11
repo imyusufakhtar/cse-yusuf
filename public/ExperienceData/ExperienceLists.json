@@ -1,0 +1,16 @@
+{
+    "experience": [
+      {
+        "title": "Web Development",
+        "company": "Internshala, Gurugram, India (Remote)",
+        "duration": "May 2020 - June 2020",
+        "responsibilities": [
+          "Built responsive web applications with HTML, CSS, JavaScript, and React, enhancing user interaction.",
+          "Integrated RESTful APIs to improve web application functionality and user experience.",
+          "Collaborated using Git for version control, ensuring efficient codebase management and team coordination.",
+          "Applied best practices for coding to optimize web applications for speed and scalability."
+        ]
+      }
+    ]
+  }
+  

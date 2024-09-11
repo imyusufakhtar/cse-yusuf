@@ -1,0 +1,26 @@
+{
+    "h2": "Skills",
+    "skills": [
+      {
+        "strong": "Programming:",
+        "text": "Java, JavaScript, Python, TypeScript, C++"
+      },
+      {
+        "strong": "Frontend:",
+        "text": "ReactJS, JavaScript, HTML, CSS, SCSS, Bootstrap"
+      },
+      {
+        "strong": "Backend:",
+        "text": "Python Flask, RESTful APIs"
+      },
+      {
+        "strong": "Tools:",
+        "text": "Git, IDEs, SQL, Webpack"
+      },
+      {
+        "strong": "Other:",
+        "text": "Linux/Windows, Data Analysis, Troubleshooting, Project Management"
+      }
+    ]
+  }
+  

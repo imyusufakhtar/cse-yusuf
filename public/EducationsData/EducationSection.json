@@ -1,0 +1,13 @@
+{
+    "img": {
+      "src": "images/education.jpg",
+      "alt": "Profile Image"
+    },
+    "h1": "Education",
+    "p": "Education has been a cornerstone of my professional development, providing me with a solid foundation in computer science and engineering. My academic journey has equipped me with essential skills and knowledge, which I continue to build upon in my career.",
+    "a": {
+      "href": "https://www.linkedin.com/in/imdyusuf/",
+      "text": "Explore More"
+    }
+  }
+  

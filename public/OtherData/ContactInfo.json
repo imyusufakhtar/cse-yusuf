@@ -1,0 +1,26 @@
+{
+    "h2": "Contact Information",
+    "p": [
+      "Email: imyusufakhtar@gmail.com",
+      "Phone: 9781282503",
+      "Address: Chandigarh, India"
+    ],
+    "socialMedia": [
+      {
+        "platform": "GitHub",
+        "href": "https://github.com/imyusufakhtar",
+        "iconClass": "fab fa-github"
+      },
+      {
+        "platform": "LinkedIn",
+        "href": "https://www.linkedin.com/in/imdyusuf/",
+        "iconClass": "fab fa-linkedin-in"
+      },
+      {
+        "platform": "Twitter",
+        "href": "https://x.com/imyusufakhtar",
+        "iconClass": "fab fa-twitter"
+      }
+    ]
+  }
+  

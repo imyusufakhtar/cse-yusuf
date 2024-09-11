@@ -1,0 +1,154 @@
+.intro-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 20px;
+    background: #ffffff;
+    color: #004d40; 
+    border-radius: 20px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1); 
+    margin: 20px auto;
+    animation: fadeIn 1s ease-out;
+    font-family: 'Ubuntu', sans-serif;
+    min-height: 90vh;
+}
+
+.intro-section .intro-text {
+    padding: 20px;
+    background: #ffffff;
+    color: #004d40; 
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); 
+    z-index: 1;
+    animation: fadeInLeft 1s ease-out;
+}
+
+.intro-section .intro-text h1 {
+    font-size: 36px;
+    margin: 0 0 20px;
+    font-weight: 700;
+}
+
+.intro-section .intro-text p {
+    font-size: 1.3rem;
+    line-height: 1.6;
+    color: #333; 
+}
+
+.intro-section .social-links {
+    margin-top: 20px;
+}
+
+.intro-section .social-links a {
+    color: #004d40; 
+    font-size: 24px;
+    margin-right: 19px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.intro-section .social-links a:hover {
+    color: #00251a; 
+}
+
+.intro-section .button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #004d40; 
+    color: #ffffff; 
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.intro-section .button:hover {
+    background-color: #00251a; 
+}
+
+.intro-section img {
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1); 
+    object-fit: cover;
+    height: auto; 
+    animation: slideInRight 1s ease-out;
+}
+
+/* Responsive Styles */
+@media (max-width: 1024px) { 
+    .intro-section {
+        grid-template-columns: 1fr 1fr;
+        padding: 60px 20px;
+    }
+
+    .intro-section .intro-text h1 {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 768px) { 
+    .intro-section {
+        grid-template-columns: 1fr;
+        padding: 40px 20px;
+    }
+
+    .intro-section .intro-text h1 {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 480px) { 
+    .intro-section {
+        padding: 20px 10px;
+        margin: 10px auto;
+    }
+
+    .intro-section .intro-text {
+        padding: 15px;
+    }
+
+    .intro-section .intro-text p {
+        font-size: 1.2rem;
+    }
+
+    .intro-section img {
+        margin: 15px auto;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInLeft {
+    from {
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideInRight {
+    from {
+        opacity: 0;
+        transform: translateX(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}

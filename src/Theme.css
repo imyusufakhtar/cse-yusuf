@@ -1,0 +1,336 @@
+/* Dark Mode for the entire body */
+body.dark-mode {
+    background-color: #15202b; 
+    color: #e1e8ed; 
+}
+
+body.dark-mode .sidebar {
+    background-color: #192734; 
+    border-right: 2px solid #22303c;
+}
+
+body.dark-mode .sidebar-header{
+    border-bottom: 2px solid #22303c;
+}
+
+body.dark-mode .sidebar-header h2{
+    color: white;
+}
+
+body.dark-mode .sidebar .icon{
+    color: white;
+}
+
+body.dark-mode .sidebar ul li a {
+    color: rgb(167, 183, 192);
+}
+
+body.dark-mode .sidebar ul li a:hover {
+    background-color: #22303c;
+    color: #ffffff; 
+}
+
+body.dark-mode .sidebar .active{
+    background-color: #22303c; 
+    color: white; 
+}
+
+body.dark-mode .menu-toggle{
+    color: white;
+}
+
+/* Dark mode for main content */
+body.dark-mode .main-content {
+    background-color: #15202b; 
+    color: #e1e8ed; 
+}
+
+body.dark-mode .header h1 {
+    color: #ffffff; 
+    border-bottom: none;
+}
+
+body.dark-mode .footer {
+    background-color: #192734;
+    color: rgb(167, 183, 192);
+    border-top: 2px solid #22303c;
+}
+
+/* Dark mode for loading animation */
+body.dark-mode .loading {
+    background: conic-gradient(#1da1f2, #8899a6, #15202b); /* Colors similar to Twitter's palette */
+}
+
+body.dark-mode section{
+    background-color: #192734 !important;
+}
+
+
+/* Home Page */
+body.dark-mode .intro-section .intro-text{
+    background-color: #192734 !important;
+}
+
+body.dark-mode .intro-section .intro-text h1{
+    color: #ffffff;
+}
+
+body.dark-mode .intro-section .intro-text p{
+    color: white;
+}
+
+body.dark-mode .intro-section .intro-text a{
+    color: #ffffff;
+}
+
+
+/* About Me */
+body.dark-mode .about-me-section .about-me-text{
+    background-color: #192734 !important;
+}
+
+body.dark-mode .about-me-section .about-me-text h1{
+    color: #ffffff;
+}
+
+body.dark-mode .about-me-section .about-me-text p{
+    color: white;
+}
+
+body.dark-mode .skills-section h1{
+    color: #ffffff;
+}
+
+body.dark-mode .skills-section .skills-container .skill-card{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+}
+
+body.dark-mode .skills-section .skills-container .skill-card h2{
+    color: #ffffff;
+}
+
+body.dark-mode .skills-section .skills-container .skill-card p{
+    color: white;
+}
+
+
+/* Education Section */
+body.dark-mode .education-text{
+    background-color: #192734 !important;
+}
+
+body.dark-mode .education-text h1{
+    color: white;
+}
+
+body.dark-mode .education-text p{
+    color: white;
+}
+
+body.dark-mode .education-text a{
+    color: white;
+}
+
+body.dark-mode .highlight-section .highlight-content .highlight-text{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+}
+
+body.dark-mode .highlight-section .highlight-content .highlight-text h2{
+    color: white;
+}
+
+body.dark-mode .highlight-section .highlight-content .highlight-text p{
+    color: white;
+}
+
+body.dark-mode .highlight-section .highlight-content .highlight-text strong{
+    color: white;
+}
+
+/* Experience */
+
+body.dark-mode .experience-section .experience-text{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+}
+
+body.dark-mode .experience-section .experience-text h1{
+    color: white;
+}
+
+body.dark-mode .experience-section .experience-text p{
+    color: white;
+}
+
+body.dark-mode .experience-item {
+    background-color: #192734 !important;
+}
+
+body.dark-mode .experience-item h3 {
+    color: white;
+}
+
+body.dark-mode .experience-item p {
+    color: rgb(167, 183, 192) !important;
+}
+
+body.dark-mode .experience-item ul li {
+    color: white;
+}
+
+
+/* Projects */
+body.dark-mode .projects-summary h1{
+    color: white;
+}
+
+body.dark-mode .projects-summary p{
+    color: white;
+}
+
+body.dark-mode .projects-summary a{
+    color: aqua;
+}
+
+body.dark-mode .project-card{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+}
+
+body.dark-mode .project-card h2{
+    color: white;
+}
+
+body.dark-mode .project-card p{
+    color: white;
+}
+
+/* Resume */
+body.dark-mode .portfolio-resume-sidebar{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+}
+
+body.dark-mode .portfolio-resume-content{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+}
+
+body.dark-mode .portfolio-resume-section h2{
+    color: white;
+    /* border: 2px solid #22303c; */
+    border-bottom: 2px solid white;
+}
+
+body.dark-mode .portfolio-experience-card{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+    color: white;
+}
+
+body.dark-mode .portfolio-project-card{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+    color: white;
+}
+
+body.dark-mode .portfolio-skills-card{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+    color: white;
+}
+
+body.dark-mode .portfolio-education-card{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+    color: white;
+}
+
+body.dark-mode .portfolio-experience-card h3{
+    color: white;
+}
+
+body.dark-mode .portfolio-project-card h3{
+    color: white;
+}
+
+body.dark-mode .portfolio-project-card a{
+    color: aqua;
+}
+
+body.dark-mode .portfolio-skills-card strong{
+    color: aqua;
+}
+
+body.dark-mode .portfolio-education-card h3{
+    color: white;
+}
+
+body.dark-mode .settings-section h1{
+    color: white;
+}
+
+body.dark-mode .settings-section p{
+    color: white;
+}
+
+body.dark-mode .settings-card{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+    color: white;
+}
+
+body.dark-mode .settings-card h2{
+    color: white;
+}
+
+body.dark-mode .contact-form{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+    color: white;
+}
+
+body.dark-mode .contact-form input{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+    color: white;
+}
+
+body.dark-mode .contact-form textarea{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+    color: white;
+}
+
+body.dark-mode .contact-form h1{
+    color: white;
+}
+
+body.dark-mode .contact-form p{
+    color: white;
+}
+
+body.dark-mode .contact-info{
+    background-color: #192734 !important;
+    border: 2px solid #22303c;
+    color: white;
+}
+
+body.dark-mode .contact-info h2{
+    color: white;
+}
+
+body.dark-mode .contact-info p{
+    color: white;
+}
+
+body.dark-mode .social-media a{
+    color: white;
+}
+
+/* body.dark-mode .theme{
+    background-color: whitesmoke;
+    color: black;
+} */

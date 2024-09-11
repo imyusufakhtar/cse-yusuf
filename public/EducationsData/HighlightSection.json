@@ -1,0 +1,25 @@
+{
+    "h2": "Chandigarh University",
+    "p": [
+      "Bachelor of Engineering in Computer Science & Engineering",
+      {
+        "text": "Location: ",
+        "strong": "Mohali, India"
+      },
+      {
+        "text": "Duration: ",
+        "strong": "July 2018 - July 2022"
+      },
+      "Gained a comprehensive understanding of computer science principles, programming languages, and software development methodologies."
+    ],
+    "a": {
+      "href": "https://youtu.be/7zOv8OhudRA?si=3UMyGV_mrCrsO7eq",
+      "target": "_blank",
+      "text": "Virtual tour"
+    },
+    "img": {
+      "src": "images/cu-pic.jpg",
+      "alt": "Highlight Image"
+    }
+  }
+  

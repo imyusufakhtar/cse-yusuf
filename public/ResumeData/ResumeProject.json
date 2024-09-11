@@ -1,0 +1,84 @@
+{
+    "h2": "Projects",
+    "projects": [
+      {
+        "h3": "Color Matching Game",
+        "p": [
+          {
+            "strong": "Technologies:",
+            "text": "HTML, CSS, JavaScript"
+          },
+          {
+            "strong": "Algorithms:",
+            "text": "Fisher-Yates Shuffle"
+          },
+          "Developed a Color Matching Game with over 50 color tiles and 10+ interactive elements. Implemented tile matching logic with the Fisher-Yates Shuffle algorithm. Designed a responsive UI and integrated real-time features such as a scoring system and countdown timer.",
+          {
+            "a": {
+              "href": "https://github.com/imyusufakhtar/color-matching-game-js",
+              "text": "GitHub"
+            }
+          },
+          {
+            "a": {
+              "href": "https://imyusufakhtar.github.io/color-matching-game-js/",
+              "text": "Live"
+            }
+          }
+        ]
+      },
+      {
+        "h3": "Rock, Paper, Scissors Game",
+        "p": [
+          {
+            "strong": "Technologies:",
+            "text": "JavaScript, React, CSS"
+          },
+          {
+            "strong": "Algorithms:",
+            "text": "Random Choice Generation"
+          },
+          "Developed a Rock, Paper, Scissors game with React, managing state with React hooks. Implemented game logic and designed a responsive UI. Future enhancements include multiplayer functionality with backend integration.",
+          {
+            "a": {
+              "href": "https://github.com/imyusufakhtar/rock-paper-scissors",
+              "text": "GitHub"
+            }
+          },
+          {
+            "a": {
+              "href": "https://rocksss.netlify.app/",
+              "text": "Live"
+            }
+          }
+        ]
+      },
+      {
+        "h3": "Portfolio",
+        "p": [
+          {
+            "strong": "Technologies:",
+            "text": "React, React Router, Bootstrap, CSS"
+          },
+          {
+            "strong": "Algorithms:",
+            "text": "Data Fetching and Rendering"
+          },
+          "Engineered a personal portfolio website with client-side routing and dynamic data fetching. Designed a fully responsive UI and achieved a 98% mobile-friendly score.",
+          {
+            "a": {
+              "href": "https://github.com/imyusufakhtar/cse",
+              "text": "GitHub"
+            }
+          },
+          {
+            "a": {
+              "href": "https://imyusufakhtar.netlify.app/",
+              "text": "Live"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "h1": "About Me",
+    "p": "Hello! I'm Md Yusuf, a passionate software developer with a strong background in computer science. I enjoy building innovative solutions and tackling complex problems. With expertise in various technologies, I am always eager to learn and grow in the ever-evolving tech landscape.",
+    "img": {
+      "src": "images/About-me.jpg",
+      "alt": "Introduction Image"
+    }
+  }
+  

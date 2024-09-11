@@ -1,0 +1,46 @@
+{
+    "h1": "My Skills",
+    "skillCards": [
+      {
+        "img": {
+          "src": "images/programming.jpg",
+          "alt": "Skill Image"
+        },
+        "h2": "Programming",
+        "p": "Java, JavaScript, Python, TypeScript, C++"
+      },
+      {
+        "img": {
+          "src": "images/frontend.png",
+          "alt": "Skill Image"
+        },
+        "h2": "Frontend",
+        "p": "JavaScript, React.js, Redux, HTML5, CSS3, Bootstrap"
+      },
+      {
+        "img": {
+          "src": "images/backend.jpg",
+          "alt": "Skill Image"
+        },
+        "h2": "Backend",
+        "p": "Node.js, Express.js, RESTful APIs, JSON"
+      },
+      {
+        "img": {
+          "src": "images/other-skills.jpg",
+          "alt": "Skill Image"
+        },
+        "h2": "Other",
+        "p": "Data Structures and Algorithms, SQL, Troubleshooting, Project Management"
+      },
+      {
+        "img": {
+          "src": "images/tools.jpeg",
+          "alt": "Skill Image"
+        },
+        "h2": "Tools",
+        "p": "Git, VS Code, Vite, Webpack, React DevTools, Redux DevTools"
+      }
+    ]
+  }
+  

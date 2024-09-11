@@ -1,0 +1,85 @@
+{
+    "projects": [
+      {
+        "title": "Color Matching Game",
+        "description": "Developed a dynamic game with over 50 color tiles using the Fisher-Yates Shuffle algorithm for fairness. Features a responsive UI, scoring system, and countdown timer for enhanced interaction.",
+        "links": [
+          { "text": "GitHub", "href": "https://github.com/imyusufakhtar/color-matching-game-js", "target": "_blank" },
+          { "text": "Live", "href": "https://imyusufakhtar.github.io/color-matching-game-js/", "target": "_blank" }
+        ]
+      },
+      {
+        "title": "Rock, Paper, Scissors Game",
+        "description": "Created a state-managed game with React, handling logic and UI responsiveness. Planned future enhancements for multiplayer functionality and real-time score tracking.",
+        "links": [
+          { "text": "GitHub", "href": "https://github.com/imyusufakhtar/rock-paper-scissors", "target": "_blank" },
+          { "text": "Live", "href": "https://rocksss.netlify.app/", "target": "_blank" }
+        ]
+      },
+      {
+        "title": "Portfolio Website",
+        "description": "Built a comprehensive personal portfolio with dynamic data fetching and seamless navigation. Responsive design with a high mobile-friendly score for optimal viewing across devices.",
+        "links": [
+          { "text": "GitHub", "href": "https://github.com/imyusufakhtar/cse", "target": "_blank" },
+          { "text": "Live", "href": "https://imyusufakhtar.netlify.app/", "target": "_blank" }
+        ]
+      },
+      {
+        "title": "Solar System Simulation",
+        "description": "Developed a 3D solar system simulation using JavaScript and WebGL. The simulation includes orbiting planets and interactive camera controls for immersive exploration.",
+        "links": [
+          { "text": "GitHub", "href": "https://github.com/imyusufakhtar/solar-system", "target": "_blank" },
+          { "text": "Live", "href": "https://imyusufakhtar.github.io/solar-system/", "target": "_blank" }
+        ]
+      },
+      {
+        "title": "Tic Tac Toe Game",
+        "description": "Created a simple and interactive Tic Tac Toe game using JavaScript. Implemented features such as player turn indication, game reset, and winner determination logic.",
+        "links": [
+          { "text": "GitHub", "href": "https://github.com/imyusufakhtar/tic-tac-toe", "target": "_blank" },
+          { "text": "Live", "href": "https://imyusufakhtar.github.io/tic-tac-toe/", "target": "_blank" }
+        ]
+      },
+      {
+        "title": "E-commerce Platform",
+        "description": "Developed a scalable and secure e-commerce platform with a real-time product search, cart functionality, and integrated payment gateway using MERN stack (MongoDB, Express, React, Node.js).",
+        "links": [
+          { "text": "GitHub", "href": "https://github.com/imyusufakhtar/Myntra-Clone-E-Commerce", "target": "_blank" },
+          { "text": "Live", "href": "#", "target": "_blank" }
+        ]
+      },
+      {
+        "title": "Blogging Platform",
+        "description": "Built a fully-featured blogging platform with user authentication, rich text editor, and real-time comments functionality using Django and React.",
+        "links": [
+          { "text": "GitHub", "href": "https://github.com/imyusufakhtar", "target": "_blank" },
+          { "text": "Live", "href": "#", "target": "_blank" }
+        ]
+      },
+      {
+        "title": "Task Manager",
+        "description": "Developed a full-featured task management application with CRUD functionality, user authentication, and task filtering. Built using Node.js, Express, and MongoDB for efficient data handling.",
+        "links": [
+          { "text": "GitHub", "href": "https://github.com/imyusufakhtar/Task-Manager", "target": "_blank" },
+          { "text": "Live", "href": "#", "target": "_blank" }
+        ]
+      },
+      {
+        "title": "Weather App",
+        "description": "Created a weather application that fetches real-time data from a public weather API. The app displays weather conditions, forecast, and city search functionality with a clean UI design.",
+        "links": [
+          { "text": "GitHub", "href": "https://github.com/imyusufakhtar/Weather-App", "target": "_blank" },
+          { "text": "Live", "href": "#", "target": "_blank" }
+        ]
+      },
+      {
+        "title": "Online Bookstore Web Application",
+        "description": "Built a full-stack online bookstore with user authentication, cart functionality, and secure payment integration. Developed using React, Node.js, and MongoDB for efficient data management.",
+        "links": [
+          { "text": "GitHub", "href": "https://github.com/imyusufakhtar/ONLINE-BOOKSTORE-WEB-APPLICATION", "target": "_blank" },
+          { "text": "Live", "href": "#", "target": "_blank" }
+        ]
+      }
+    ]
+  }
+  
